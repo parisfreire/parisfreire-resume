@@ -37,7 +37,7 @@ about_content: | # this will include new lines to allow paragraphs
  <mark>Maven</mark> <mark>Gradle</mark> 
  <mark>Spring</mark> <mark>Spring Boot</mark> <mark>Hibernate</mark> 
  <mark>MySQL</mark> <mark>PostgreSQL</mark> <mark>MongoDB</mark>
- <mark>AngularDart</mark> <mark>HTML5</mark> <mark>CSS</mark> <mark>Vanilla/ES6 JS</mark> <mark>jQuery</mark>
+ <mark>AngularDart</mark> <mark>HTML5</mark> <mark>CSS</mark> <mark>ES6 JS</mark> <mark>jQuery</mark>
  <mark>Docker</mark> <mark>RabbitMQ</mark>
 
 # Projects Section
