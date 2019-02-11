@@ -1,0 +1,71 @@
+# Site
+repository: parisfreire/parisfreire-resume
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Paris Freire
+title: Full Stack Developer
+email: parisfreiregallego@gmail.com
+website: www.parisfreire.com
+
+# Social links
+twitter_username: parisfreire
+github_username:  parisfreire
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+# linkedin_username: jekyll
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+# about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_content: | # this will include new lines to allow paragraphs
+ Hi, my name is Paris Freire, I’m a full stack web developer with over 5 years experience, based in the East of London currently.
+ I would define myself as a proactive, problem solving and hard-worker always willing to learn.
+
+
+ Over my 5 years of software development, I was given the opportunity to gain experience with building, 
+ maintaining and evolving a SaaS product that improved either my stand-alone or teamwork capabilities.
+ The technologies I currently have the most experience working with are:
+
+ <mark>Java</mark> <mark>Groovy</mark> <mark>Grails</mark>
+ <mark>Maven</mark> <mark>Gradle</mark> 
+ <mark>Spring</mark> <mark>Spring Boot</mark> <mark>Hibernate</mark> 
+ <mark>MySQL</mark> <mark>PostgreSQL</mark> <mark>MongoDB</mark>
+ <mark>AngularDart</mark> <mark>HTML5</mark> <mark>CSS</mark> <mark>Vanilla/ES6 JS</mark> <mark>jQuery</mark>
+ <mark>Docker</mark> <mark>RabbitMQ</mark>
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# educaton_title: Education #(Use this to override about education section title)
+
+# More Section
+more_title: Interests #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  <mark>Conferences</mark> <mark>Meetups</mark> <mark>Live Music</mark> <mark>Travelling</mark>
+  <mark>Video Games</mark> <mark>Software</mark> <mark>Hardware</mark>
+  <mark>Blockchain</mark>
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

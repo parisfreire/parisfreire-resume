@@ -1,0 +1,33 @@
+# Experience template
+- company: Grupo Aluman
+  link: https://www.grupoaluman.com
+  job_title: Mid-Level Software Engineer
+  dates: October 2014 - December 2018
+  # quote: >
+   # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    During my time at Grupo Aluman I worked as part of an agile team building our own web-based ERP application (HR, CRM, Business Intelligence...).
+    As the team grew exponentially over years, we've used multiple agile methodologies like
+    <mark>Kanban</mark> and <mark>Scrum</mark>. I also have experience implementing different version control systems such as
+    <mark>Subversion</mark> or <mark>Git</mark>.
+
+    I was able to work on maintaining and implementing new functionalities to the core product,
+    migrating it from a traditional monolithic architecture system to <mark>REST</mark> <mark>API</mark> and microservices oriented architecture.
+    This has been built from scratch where I spent most of my time.
+  
+
+    Due to the product has to cover the company as a whole, I had to integrate third-party software to the existing system,
+    designing and coding utilities that that fitted the requirements then.
+
+- company: Softtek
+  link: https://www.softtek.com
+  job_title: Trainee Developer (Internship)
+  dates: April 2014 - June 2014
+  # quote: >
+   # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+
+    All along my intership in Softtek I learned lots of different things. How a company works from within,
+    how teams can be organized, how worked the team I was part of, company culture...
+    
+    I was responsible for normalize data using patterns and scripting to provide faithful data to my teammates.

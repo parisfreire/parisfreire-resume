@@ -1,0 +1,21 @@
+# Education Template
+- name: Liceo La Paz
+  dates: October 2012 - December 2015
+  qualification: Bachelor’s Degree in Multiplatform Development 
+  # quote: >
+    # Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    I was taught in principles of programming, database fundamentals and database design, development and deployment.
+    The main goal was to provide an accurate software while you got used to programming paradigms.
+    It was focused mostly on desktop and mobile development.
+- name: Liceo La Paz
+  dates: October 2013 - December 2015
+  qualification: Bachelor’s Degree in Front-End/Back-End Web Development 
+  # quote: >
+    # Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Being the first year of training the same about in-depth principles of programming, data structures and designing patterns,
+    the rest of the training was focused on web analysis, design and development like
+    standalone web applications or leading CMS platforms.
+
+
